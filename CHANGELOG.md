@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0](https://github.com/phoepsilonix/cc-rs/compare/cc-v1.2.34...cc-v2.0.0) - 2025-08-29
+
+### Fixed
+
+- fix tests apple_sdkroot_wrong ([#1530](https://github.com/phoepsilonix/cc-rs/pull/1530))
+
+### Other
+
+- Extract windows-find-tools ([#1531](https://github.com/phoepsilonix/cc-rs/pull/1531))
+- Add prefer_clang_cl_over_msvc ([#1516](https://github.com/phoepsilonix/cc-rs/pull/1516))
+
 ## [1.2.34](https://github.com/rust-lang/cc-rs/compare/cc-v1.2.33...cc-v1.2.34) - 2025-08-22
 
 ### Fixed
