@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.44](https://github.com/phoepsilonix/cc-rs/compare/cc-v1.2.43...cc-v1.2.44) - 2025-10-31
+
+### Other
+
+- Update CHANGELOG for version 1.2.43 ([#1602](https://github.com/phoepsilonix/cc-rs/pull/1602))
+- Stop passing an invalid target to `llvm-mingw`'s cross-compilation wrappers ([#1495](https://github.com/phoepsilonix/cc-rs/pull/1495))
+
 ## [1.2.43](https://github.com/rust-lang/cc-rs/compare/cc-v1.2.42...cc-v1.2.43) - 2025-10-24
 
 ### Other
