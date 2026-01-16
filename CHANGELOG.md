@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.53](https://github.com/phoepsilonix/cc-rs/compare/cc-v1.2.52...cc-v1.2.53) - 2026-01-16
+
+### Other
+
+- updated the following local packages: find-msvc-tools
+
 ## [1.2.52](https://github.com/rust-lang/cc-rs/compare/cc-v1.2.51...cc-v1.2.52) - 2026-01-09
 
 ### Other
